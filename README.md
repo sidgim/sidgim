@@ -1,5 +1,5 @@
 ### Hi there 👋
-* Estoy aprendiendo a desarrollar en **Backend** :computer:
+* Estoy aprendiendo a desarrollar en **Backend** y **Frontend** :computer:
 <!--
 **sidgim/sidgim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
